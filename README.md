@@ -1,0 +1,2 @@
+# LP2
+Sppu sem6 LP2 assignments of ai and cloud computing. It includes BFS ,DFS,ASTAR ,N-QUEENS,EXPERT SYSTEM,CHATBOX,CALCULATOR,JOB SCEHDULING AND CURRENCY CONVERTER.
